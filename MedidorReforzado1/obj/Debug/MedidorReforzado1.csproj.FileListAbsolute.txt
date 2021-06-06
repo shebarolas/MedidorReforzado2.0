@@ -1,0 +1,12 @@
+C:\Users\sheba\source\repos\MedidorReforzado1\MedidorReforzado1\bin\Debug\MedidorReforzado1.exe.config
+C:\Users\sheba\source\repos\MedidorReforzado1\MedidorReforzado1\bin\Debug\MedidorReforzado1.exe
+C:\Users\sheba\source\repos\MedidorReforzado1\MedidorReforzado1\bin\Debug\MedidorReforzado1.pdb
+C:\Users\sheba\source\repos\MedidorReforzado1\MedidorReforzado1\bin\Debug\ModelsMedidor.dll
+C:\Users\sheba\source\repos\MedidorReforzado1\MedidorReforzado1\bin\Debug\ServidorSocketUtils.dll
+C:\Users\sheba\source\repos\MedidorReforzado1\MedidorReforzado1\bin\Debug\ServidorSocketUtils.pdb
+C:\Users\sheba\source\repos\MedidorReforzado1\MedidorReforzado1\bin\Debug\ModelsMedidor.pdb
+C:\Users\sheba\source\repos\MedidorReforzado1\MedidorReforzado1\obj\Debug\MedidorReforzado1.csprojAssemblyReference.cache
+C:\Users\sheba\source\repos\MedidorReforzado1\MedidorReforzado1\obj\Debug\MedidorReforzado1.csproj.CoreCompileInputs.cache
+C:\Users\sheba\source\repos\MedidorReforzado1\MedidorReforzado1\obj\Debug\MedidorReforzado1.csproj.CopyComplete
+C:\Users\sheba\source\repos\MedidorReforzado1\MedidorReforzado1\obj\Debug\MedidorReforzado1.exe
+C:\Users\sheba\source\repos\MedidorReforzado1\MedidorReforzado1\obj\Debug\MedidorReforzado1.pdb

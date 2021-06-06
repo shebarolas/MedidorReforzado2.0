@@ -1,0 +1,6 @@
+C:\Users\sheba\Downloads\Vespertino-2-main (2)\Vespertino-2-main\ServidorSocketUtils\bin\Debug\ServidorSocketUtils.dll
+C:\Users\sheba\Downloads\Vespertino-2-main (2)\Vespertino-2-main\ServidorSocketUtils\bin\Debug\ServidorSocketUtils.pdb
+C:\Users\sheba\Downloads\Vespertino-2-main (2)\Vespertino-2-main\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.csprojAssemblyReference.cache
+C:\Users\sheba\Downloads\Vespertino-2-main (2)\Vespertino-2-main\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.csproj.CoreCompileInputs.cache
+C:\Users\sheba\Downloads\Vespertino-2-main (2)\Vespertino-2-main\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.dll
+C:\Users\sheba\Downloads\Vespertino-2-main (2)\Vespertino-2-main\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.pdb

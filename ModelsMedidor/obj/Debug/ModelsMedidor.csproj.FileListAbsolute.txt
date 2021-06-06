@@ -1,0 +1,6 @@
+C:\Users\sheba\source\repos\MedidorReforzado1\ModelsMedidor\bin\Debug\ModelsMedidor.dll
+C:\Users\sheba\source\repos\MedidorReforzado1\ModelsMedidor\bin\Debug\ModelsMedidor.pdb
+C:\Users\sheba\source\repos\MedidorReforzado1\ModelsMedidor\obj\Debug\ModelsMedidor.csprojAssemblyReference.cache
+C:\Users\sheba\source\repos\MedidorReforzado1\ModelsMedidor\obj\Debug\ModelsMedidor.csproj.CoreCompileInputs.cache
+C:\Users\sheba\source\repos\MedidorReforzado1\ModelsMedidor\obj\Debug\ModelsMedidor.dll
+C:\Users\sheba\source\repos\MedidorReforzado1\ModelsMedidor\obj\Debug\ModelsMedidor.pdb
